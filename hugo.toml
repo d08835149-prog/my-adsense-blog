@@ -1,4 +1,4 @@
-baseURL = 'https://ditto-adsense.netlify.app/'  <-- 내 주소로 수정!
+baseURL = 'https://ditto-adsense.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
