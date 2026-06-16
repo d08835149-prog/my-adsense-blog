@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jun 2026 19:34:07 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 16 Jun 2026 19:34:07 -0400</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;-반갑습니다-ditto의-첫-블로그입니다&#34;&gt;🚀 반갑습니다, Ditto의 첫 블로그입니다!&lt;/h1&gt;
+&lt;p&gt;휴고(Hugo) 엔진이랑 PaperMod 테마를 사용해서 실시간으로 글을 수정하고 있습니다.&lt;/p&gt;
+&lt;h3 id=&#34;오늘-완료한-작업들&#34;&gt;오늘 완료한 작업들&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;휴고 에센셜 프로그램 세팅&lt;/li&gt;
+&lt;li&gt;로컬 가상 서버 구동 완료 (&lt;code&gt;localhost:1313&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;실시간 마크다운 렌더링 테스트 중&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;저장하면 브라우저 화면이 바로 바뀝니다!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
